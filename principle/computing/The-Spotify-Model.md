@@ -6,11 +6,5 @@
 
 스포티파이 모델은 부족, 길드, 지부와 같은 그들 조직 구조의 요소 또한 유명하게 만들었다.
 
-<br>
-
 ![Spotify Tribe Engineering Model](./images/spotify_model.jpg)
-
 *(이미지 출처: https://medium.com/@media_75624/exploring-key-elements-of-spotifys-agile-scaling-model-471d2a23d7ea)*
-
-<br>
-

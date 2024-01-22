@@ -4,7 +4,7 @@
 
 [공식 기념일](https://dontbeadickday.com/)
 
-> 좆같이 굴지 마라.
+> 좆같이 굴지 마라. (Don't be a dick.)
 >
 > _윌 휘턴_
 

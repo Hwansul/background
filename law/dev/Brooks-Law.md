@@ -8,14 +8,12 @@
 
 흔히 말하는 "임산부 9명이 모여도 아기를 한 달만에 낳을 수는 없다"는 구절은 브룩스의 법칙 중에서도, 특정 작업은 나누거나 병렬화할 수 없음을 비유적으로 뜻한다.
 
-이것은 그의 저서 '[맨먼스 미신](#추천-도서)'의 주요한 주제이다.
+이것은 그의 저서 '[맨먼스 미신](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)'의 주요한 주제이다.
 
-<br>
+#### 참고 :
 
-참고 :
-
-- [Death March](#todo)
-- [추천 도서 : 맨먼스 미신](#추천-도서)
+- [Death March](https://en.wikipedia.org/wiki/Death_march)
+- [추천 도서 : 맨먼스 미신](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month)
 
 <br>
 
